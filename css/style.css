@@ -1,0 +1,86 @@
+/*html tags*/
+html{
+  font-size: 16px;
+  background-color: hsl(204, 43%, 93%)
+}
+
+body{
+    font-family:'Karla';
+    background-color: hsl(204, 43%, 93%);
+}
+
+h1{
+  color: hsl(179, 62%, 43%);
+  font-size:1.5rem;
+}
+h3{
+  color: white;
+  font-size:1.5rem;
+}
+span{
+  font-size:2rem;
+  margin-right: 7px;
+  font-weight:700;
+}
+
+ul{
+  list-style-type: none;
+}
+
+/*top tags*/
+.bold{
+  font-weight:700;
+}
+.top{
+  border-radius: 5px;
+  background-color: white;
+  width:53%;
+  margin: 175px auto 0;
+  padding: 3% 5%
+}
+
+.yellowtext{
+  color: hsl(71, 73%, 54%);
+  font-size:1.1rem;
+}
+
+.greytext{
+  color:gray;
+}
+
+/*bottom tags*/
+.bottom{
+  border-radius: 5px;
+  width:50.5%;
+  margin:0 auto 175px;
+}
+
+.left{
+  background-color:hsl(179, 62%, 43%);
+  border-radius: 5px;
+  padding: 7% 5%;
+  color: white;
+}
+.grey{
+  color:hsl(204, 43%, 93%);
+  font-size:1rem;
+}
+.button{
+  background-color:hsl(71, 73%, 54%);
+  color:white;
+  margin-top:40px;
+}
+
+.right{
+  background-color:#49beb7;
+  border-radius: 5px;
+  padding: 7% 3%;
+}
+
+.heading{
+  margin-bottom:20px;
+}
+
+.attribution{
+  display:none;
+}
